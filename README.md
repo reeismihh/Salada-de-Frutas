@@ -1,4 +1,3 @@
-# Salada de frutas
 <!DOCTYPE html>
 <head>
 <html>
